@@ -1,2 +1,1 @@
-# aeronova
-A webpage for Aeronova Alliance
+A webpage for Aeronova Aliance. Very crude. 
