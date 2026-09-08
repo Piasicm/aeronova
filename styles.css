@@ -6,7 +6,11 @@ body {
 }
 
 .header {
-    background-color: rgb(150, 184, 245);
+    background-color: rgb(94, 143, 234);
     padding: 1px;
+    padding-left: 25px;
+}
+
+.welcome-content {
     padding-left: 25px;
 }
