@@ -5,6 +5,17 @@ body {
     padding: 0;
 }
 
+.logo {
+    width: 150px;
+    length: 125px;
+}
+
+.top-set {
+    position: inline-block;
+    display: flex;
+    padding: 5px;
+}
+
 .header {
     background-color: rgb(94, 143, 234);
     padding: 1px;
